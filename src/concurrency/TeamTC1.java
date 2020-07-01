@@ -1,5 +1,8 @@
 package concurrency;
 
+import java.util.ArrayList;
+import java.util.List;
+
 class TeamTC1 {
 
     List<String> team = new ArrayList<>();
